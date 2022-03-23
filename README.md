@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Flask/Python projects.
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on building Web APIs and building efficient tools.
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with building an interface for my API
 - 💬 Ask me about Extra-terrestrials, flask,web-security and pro-wrestling
 
 ### :hammer_and_wrench: Languages and Tools :
