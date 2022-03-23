@@ -22,6 +22,14 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="sqlalchemy" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="googlecloud" **alt="Git" width="40" height="40"/>
-  
+
 
 </div>
+
+### :fire: My Stats :
+<div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=collinsmarra&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collinsmarra)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
