@@ -25,9 +25,3 @@ Here are some ideas to get you started:
 
 
 </div>
-
-### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=collinsmarra&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-  ![My Stats!](https://github-readme-stats.vercel.app/api?username=collinsmarra&show_icons=true&theme=radical)
-  Up
